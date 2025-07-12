@@ -12,7 +12,7 @@ Este repositório contém um **notebook Jupyter (`.ipynb`)** com exemplos práti
   - Funções úteis da biblioteca
 
 ## 📊 Status
-Em progresso.
+Concluído
 
 ## 📌 Pré-requisitos
 
