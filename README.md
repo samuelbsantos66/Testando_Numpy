@@ -1,6 +1,6 @@
 # 🧪 Testes com NumPy em Python
 
-Este repositório contém um **notebook Jupyter (`.ipynb`)** com exemplos práticos de uso da biblioteca **NumPy**, amplamente utilizada para computação numérica em Python.
+Este repositório contém um **notebook Jupyter (`.ipynb`)** com exemplos práticos de uso da biblioteca **NumPy**, amplamente utilizada para computação numérica em Python. Feito com base na Formação Cientista de Dados: O Curso Completo - 2025, do professor Fernando Amaral.
 
 ## 📁 Conteúdo do Repositório
 
